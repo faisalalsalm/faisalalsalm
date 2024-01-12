@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI and ML techniques.**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Anything.**
 
 - 📫 How to reach me **https://faisalrv.com , faisalalsalm@gmail.com**
 
