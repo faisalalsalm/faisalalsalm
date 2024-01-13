@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **Senior Developer.**
 
-- 🌱 I’m currently learning **AI and ML techniques.**
+- 🌱 I’m currently learning more **AI and ML techniques.**
 
 - 💬 Ask me about **Anything.**
 
