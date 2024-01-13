@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/faisalalsalm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisalalsalm" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7161051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7161051" height="30" width="40" /></a>
+<a href="faisalrv.com" target="blank"><img align="center" src="https://faisalrv.com/favicon.png" alt="Faisal Abdullah Ali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
