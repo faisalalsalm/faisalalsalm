@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faisal Abdullah</h1>
 <h3 align="center">I'm a software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalalsalm&label=Profile%20views&color=0e75b6&style=flat" alt="faisalalsalm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalalsalm&label=Profile%20views&color=0e75b6&style=flat&theme=monokai" alt="faisalalsalm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisalalsalm&theme=monokai" alt="faisalalsalm" /></a> </p>
 
