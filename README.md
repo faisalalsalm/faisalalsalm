@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisalalsalm&theme=radical" alt="faisalalsalm" /></a> </p>
 
 
+
 - 🔭 I’m currently working as **Senior Developer.**
 
 - 🌱 I’m currently learning more **AI and ML techniques.**
@@ -16,9 +17,11 @@
 
 - 📫 How to reach me **https://faisalrv.com , faisalalsalm@gmail.com**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://faisalrv.com" target="blank"><img align="center" src="https://faisalrv.com/favicon.ico" alt="Faisal Abdullah Ali" height="30" width="40" /></a>
+<a href="https://faisalrv.com" target="blank"><img align="center" src="https://faisalrv.com/favicon.ico" alt="Faisal Abdullah Ali" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/faisalalsalm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisalalsalm" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7161051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7161051" height="30" width="40" /></a>
 
