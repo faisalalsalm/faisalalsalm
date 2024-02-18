@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working as **Senior Developer.**
+- 🔭 I’m currently working as **Senior Software Developer.**
 
 - 🌱 I’m currently learning more **AI and ML techniques.**
 
