@@ -9,6 +9,7 @@
 -->
 
 
+
 - 🔭 I’m currently working as **Senior Software Developer.**
 
 - 🌱 I’m currently learning more **AI and ML techniques.**
@@ -34,4 +35,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalalsalm&show_icons=true&locale=en&theme=radical" alt="faisalalsalm" /></p>
 -->
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalalsalm&theme=radical" alt="faisalalsalm" /></p>
