@@ -9,7 +9,6 @@
 -->
 
 
-
 - 🔭 I’m currently working as **Senior Software Developer.**
 
 - 🌱 I’m currently learning more **AI and ML techniques.**
@@ -17,7 +16,6 @@
 - 💬 Ask me about **Anything.**
 
 - 📫 How to reach me **https://faisalrv.com , faisalalsalm@gmail.com**
-
 
 
 <h3 align="left">Connect with me:</h3>
