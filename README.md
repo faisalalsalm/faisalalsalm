@@ -36,10 +36,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalalsalm&theme=radical" alt="faisalalsalm" /></p>
 
-
-
-![](https://raw.githubusercontent.com/faisalalsalm/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/faisalalsalm/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-
